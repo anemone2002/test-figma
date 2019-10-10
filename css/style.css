@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#shop{
+  background:   #E5E5E5;
+}
+#shop h3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+}
+.container{
+    max-width: 1110px;
+    margin: auto;
+    color:grey;
+}
+.row{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+}
+img{
+    display: flex;
+    text-align: center;
+    width: 50%;
+}
+.col-3{
+    width: 25%;
+}
+.chair h3, h2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    background: #ffffff;
+
+}
+
+#email .container{
+    max-width: 100%;
+}
+#email .col-6{
+    background: #F13C6E;
+    left: 450px;
+}
